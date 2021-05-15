@@ -14,4 +14,8 @@ int main(){
 		cout << b[0] << b.length()-2 << b[g] << endl;
 		
 	}
+	cout << "Press any key to exit." << endl;
+	int kk;
+	cin >> kk;
+}
 }
